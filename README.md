@@ -109,7 +109,8 @@ A successful request will return the following JSON structure:
 }
 ```
 ### PubSub trigger Updated Data
-![firebase upadted data](https://github.com/user-attachments/assets/e08121bd-e3c7-4ada-8584-c1d40994ab92)
+![firebase upadted data](https://github.com/user-attachments/assets/5322584b-6a31-4139-99e6-2083a7da6bb9)
+
 ## Booking status Change after trigger pubSub event
 ![status update](https://github.com/user-attachments/assets/cabe21b7-8c46-43be-904b-b4ea02ef516a)
 
